@@ -1,4 +1,4 @@
-# Bioinformática
+# Judit Del Valle Molina
 
 ### Experiencia
 - Trabajo 1
