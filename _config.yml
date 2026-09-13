@@ -1,5 +1,2 @@
-title: Cayman theme
-description: Portfolio de mi experiencia como bioinformática
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
